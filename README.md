@@ -1,4 +1,5 @@
 - 👋 Hello, I’m Piotr Klocek
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pioter1290&layout=compact)
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pioter1290&layout=compact" alt="Top Langs">
+</div>
