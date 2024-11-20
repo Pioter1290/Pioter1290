@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pioter1290
+- 👋 Hello, I’m Piotr Klocek
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pioter1290&layout=compact)
