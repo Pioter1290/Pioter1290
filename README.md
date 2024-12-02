@@ -11,3 +11,10 @@
   </a>
 </div>
 
+<div align="center">
+  <p>My LeetCode profile:</p>
+  <a href="https://leetcode.com/Pioterek/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</div>
+
